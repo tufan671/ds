@@ -1,0 +1,33 @@
+﻿{
+    "BotToken":"",
+    "OwnerID":"589079197906108416",
+    "prefix": ["/",".","."],
+
+    "BotVoiceChannel":"914513781890113539",
+    "Activity": [
+    "Canlı Destek İçin; /destek",
+    "Başvurular İçin .başvuru",
+    "Öneri/Şikayetler için DM",
+    "/destek İçin dm"
+    ],
+    "Footer":"Valentina Canlı destek",
+    "Color":"Black",
+
+    "green":"<a:valentina_tik:914526310225838100>",
+    "red":"<a:valentina_carpi:914525097618968587>",
+    "star":"<a:valentina_tag_2:914520681797001226>",
+    "çizgi":"<a:valentina_mor_yildiz:914528742557229057>",
+
+    "EnAltYetkiliRoleID":"914513779771973670",
+    "TagRoleID":"914513779725840452",
+    "YetkiliAlımRoleID": "914513779855859742",
+    "VerilecekYetkiliRolleriID": ["914513779771973670","914513779771973662"],
+    "EveryoneRoleID":"914513779587428392",
+
+    "BaşvuruKategoryID":"924273843856621638",
+    "BasvuruKomutKullanımKanalı":"924274227375398912",
+    "BaşvuruDurumLog": "924274460092158012",
+    "BaşvuruLogChannelID":"924274602107109457",
+    "ÖneriİstekChannelID":"924277672450854972",
+    "SikayetChannelID":"924277672450854972"
+}
